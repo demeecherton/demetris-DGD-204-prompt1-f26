@@ -1,0 +1,4 @@
+<!-- UNITY CODE ASSIST INSTRUCTIONS START -->
+- Project name: DGD-204-prompt1
+- Unity version: Unity 6000.6.0f1
+<!-- UNITY CODE ASSIST INSTRUCTIONS END -->
